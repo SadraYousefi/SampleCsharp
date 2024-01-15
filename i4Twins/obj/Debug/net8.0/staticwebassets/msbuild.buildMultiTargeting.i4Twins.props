@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\i4Twins.props" />
+</Project>
